@@ -1,0 +1,22 @@
+{
+    "name": "uu-myheart/dd",
+    "description": "dd() helper function in laravel.",
+    "version": "1.0",
+    "type": "package",
+    "require": {
+        "symfony/var-dumper": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Garan",
+            "email": "baigalikkk@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Garan\\": "src/"
+        },
+        "files": ["src/helper.php"]
+    }
+}

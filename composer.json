@@ -3,7 +3,7 @@
     "description": "dd() helper function in laravel.",
     "type": "package",
     "require": {
-        "symfony/var-dumper": "~4.0.0"
+        "symfony/var-dumper": "^3.0"
     },
     "license": "MIT",
     "authors": [

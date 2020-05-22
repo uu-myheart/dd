@@ -1,17 +1,11 @@
 {
     "name": "uu-myheart/dd",
-    "description": "dd() helper function in laravel.",
+    "description": "Seperate dd() helper function in laravel.",
     "type": "package",
     "require": {
-        "symfony/var-dumper": "^3.0"
+        "symfony/var-dumper": "v4.0.9"
     },
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Garan",
-            "email": "baigalikkk@163.com"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "Garan\\": "src/"
